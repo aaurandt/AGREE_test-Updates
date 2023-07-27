@@ -2,16 +2,15 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='AGREE Snapshots' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1690488230408'/>
+    <property name='p2.timestamp' value='1690488334369'/>
     <property name='p2.atomic.composite.loading' value='true'/>
   </properties>
-  <children size='11'>
+  <children size='10'>
     <child location='3.1.1.202307262043'/>
     <child location='3.1.1.202307270105'/>
     <child location='3.1.1.202307271714'/>
     <child location='3.1.1.202307271724'/>
     <child location='3.1.1.202307271750'/>
-    <child location='2.10.1.202307271842'/>
     <child location='2.10.1.202307271843'/>
     <child location='2.10.1.202307271844'/>
     <child location='2.10.1.202307271845'/>
